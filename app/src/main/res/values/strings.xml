@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Utsirvanchandra</string>
+    <string name="telp">TELP</string>
+    <string name="web">WEB</string>
+    <string name="maps">MAPS</string>
+    <string name="email">EMAIL</string>
+    <string name="nama">IRVAN CHANDRA 311810169 TI 18 D5</string>
+    <string name="Intent">INTENT</string>
+    <string name="fragment">FRAGMENT</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="isi_telp">Ini adalah isi fragment telepon, KLIK TELP untuk menghubungi</string>
+    <string name="isi_web">Ini adalah isi fragment web, KLIK WEB untuk menelusuri</string>
+    <string name="isi_email">Ini adalah isi fragment telepon, KLIK EMAIL untuk mengirim email</string>
+    <string name="isi_maps">Ini adalah isi fragment telepon, KLIK MAPS untuk melihat</string>
+</resources>
